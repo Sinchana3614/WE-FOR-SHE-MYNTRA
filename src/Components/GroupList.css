@@ -1,0 +1,44 @@
+/* GroupsList.css */
+
+.container {
+    margin-top: 2rem;
+  }
+  
+  .paper {
+    padding: 2rem;
+  }
+  
+  .header {
+    text-align: center;
+    color: #ff4081;
+  }
+  
+  .create-group-button {
+    border-radius: 20px;
+    padding: 0.5rem 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .list-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 1rem 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .list-item-avatar {
+    background-color: #ff4081;
+  }
+  
+  .list-item-text {
+    margin-left: 1rem;
+  }
+  
+  .list-item-text-primary {
+    color: #ff4081;
+  }
+  
+  .list-item-text-secondary {
+    color: #757575;
+  }
+  

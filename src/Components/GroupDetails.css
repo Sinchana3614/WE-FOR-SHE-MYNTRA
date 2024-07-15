@@ -1,0 +1,54 @@
+/* GroupDetails.css */
+
+.container {
+    margin-top: 2rem;
+  }
+  
+  .paper {
+    padding: 2rem;
+  }
+  
+  .header {
+    text-align: center;
+    color: #ff4081;
+  }
+  
+  .chat-header {
+    color: #ff4081;
+    margin-bottom: 2rem;
+  }
+  
+  .message-list-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 1rem 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .message-avatar {
+    background-color: #ff4081;
+  }
+  
+  .message-text {
+    margin-left: 1rem;
+  }
+  
+  .message-text-primary {
+    font-weight: bold;
+  }
+  
+  .message-text-secondary {
+    color: #757575;
+  }
+  
+  .send-message-container {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  .send-message-textfield {
+    margin-right: 1rem;
+    flex-grow: 1;
+  }
+  

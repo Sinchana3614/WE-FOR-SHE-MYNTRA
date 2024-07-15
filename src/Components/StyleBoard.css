@@ -1,0 +1,45 @@
+/* StyleBoard.css */
+.style-board-container {
+    padding: 2rem 0;
+ }
+ 
+ .style-board-title {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #3f51b5; /* Primary color */
+    font-weight: bold;
+ }
+ 
+ .style-board-subtitle {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #757575; /* Grey color */
+ }
+ 
+ .upload-form {
+    text-align: center;
+    margin-bottom: 2rem;
+ }
+ 
+ .style-card {
+    transition: transform 0.2s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+ }
+ 
+ .style-card:hover {
+    transform: scale(1.05);
+ }
+ 
+ .style-card-media {
+    object-fit: cover;
+ }
+ 
+ .style-card-button {
+    background-color: #ff4081; /* Secondary color */
+    color: white;
+ }
+ 
+ .style-card-button:hover {
+    background-color: #f50057;
+ }
+ 
